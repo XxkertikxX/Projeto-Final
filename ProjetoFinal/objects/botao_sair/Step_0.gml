@@ -1,4 +1,6 @@
-if(keyboard_check_pressed(ord("e")))
+var Jogar = keyboard_check_pressed(ord()
+
+if(Jogar)
 {
 	game_end()
 }

@@ -1,4 +1,4 @@
-var Jogar = keyboard_check(ord("w"))
+var Jogar = mouse_check_button(mb_left)
 
 if(Jogar)
 {
