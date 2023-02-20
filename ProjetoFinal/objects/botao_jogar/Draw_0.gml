@@ -1,1 +1,0 @@
-draw_text_transformed_color(x, y, "Jogar", 8, 8, 0, c_black, c_blue, c_black, c_black, 1)
