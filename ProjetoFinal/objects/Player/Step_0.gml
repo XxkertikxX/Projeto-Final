@@ -18,9 +18,11 @@ if(left)   //Esquerda
 if(up)   //Cima
 {
 	y-=Vel
+	image_yscale = 1
 }
 if(down)   //Baixo
 {
 	y+=Vel
+	image_yscale = -1
 }
 #endregion
