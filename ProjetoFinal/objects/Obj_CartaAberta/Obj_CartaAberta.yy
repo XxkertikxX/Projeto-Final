@@ -7,7 +7,7 @@
     "path": "sprites/Carta_Aberta/Carta_Aberta.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
