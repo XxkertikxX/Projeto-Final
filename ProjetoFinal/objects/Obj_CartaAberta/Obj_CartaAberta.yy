@@ -30,5 +30,5 @@
     "path": "sprites/Carta_Aberta/Carta_Aberta.yy",
   },
   "spriteMaskId": null,
-  "visible": false,
+  "visible": true,
 }

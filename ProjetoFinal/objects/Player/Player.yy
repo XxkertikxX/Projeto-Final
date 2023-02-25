@@ -5,6 +5,10 @@
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"Obj_Mesa","path":"objects/Obj_Mesa/Obj_Mesa.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"Obj_Parede","path":"objects/Obj_Parede/Obj_Parede.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"Obj_Porta","path":"objects/Obj_Porta/Obj_Porta.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -29,8 +33,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "Sprite_Player",
-    "path": "sprites/Sprite_Player/Sprite_Player.yy",
+    "name": "Player_Parado",
+    "path": "sprites/Player_Parado/Player_Parado.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -41,6 +41,7 @@
     {"id":{"name":"Fase1","path":"rooms/Fase1/Fase1.yy",},"order":1,},
     {"id":{"name":"Obj_Carta","path":"objects/Obj_Carta/Obj_Carta.yy",},"order":9,},
     {"id":{"name":"E","path":"sprites/E/E.yy",},"order":7,},
+    {"id":{"name":"Player_Parado","path":"sprites/Player_Parado/Player_Parado.yy",},"order":0,},
     {"id":{"name":"Sprite_Fundo","path":"sprites/Sprite_Fundo/Sprite_Fundo.yy",},"order":0,},
     {"id":{"name":"Wasd_sprite","path":"sprites/Wasd_sprite/Wasd_sprite.yy",},"order":6,},
     {"id":{"name":"Obj_Cama","path":"objects/Obj_Cama/Obj_Cama.yy",},"order":5,},

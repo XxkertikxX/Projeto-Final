@@ -16,6 +16,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Player_Parado","order":3,"path":"sprites/Player_Parado/Player_Parado.yy",},
     {"name":"Sprite_Sair","order":1,"path":"sprites/Sprite_Sair/Sprite_Sair.yy",},
     {"name":"creditos","order":1,"path":"rooms/creditos/creditos.yy",},
     {"name":"Sprite_Creditos","order":2,"path":"sprites/Sprite_Creditos/Sprite_Creditos.yy",},
