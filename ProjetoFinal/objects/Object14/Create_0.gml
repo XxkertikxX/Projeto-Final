@@ -1,0 +1,1 @@
+Texto = "Caminhe para a porta usando as teclas WASD"
