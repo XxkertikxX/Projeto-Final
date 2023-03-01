@@ -1,0 +1,1 @@
+draw_text_transformed(x, y,  Texto, 1.5, 1.5, 0)
