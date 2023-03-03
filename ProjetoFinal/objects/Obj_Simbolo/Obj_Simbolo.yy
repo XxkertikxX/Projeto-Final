@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_CartaAberta",
+  "name": "Obj_Simbolo",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Carta_Aberta",
-    "path": "sprites/Carta_Aberta/Carta_Aberta.yy",
+    "name": "Simbolo",
+    "path": "sprites/Simbolo/Simbolo.yy",
   },
   "spriteMaskId": null,
   "visible": true,
