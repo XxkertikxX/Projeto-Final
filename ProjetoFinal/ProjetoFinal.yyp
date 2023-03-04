@@ -37,7 +37,6 @@
     {"id":{"name":"Sprite_Player","path":"sprites/Sprite_Player/Sprite_Player.yy",},"order":0,},
     {"id":{"name":"Fase4","path":"rooms/Fase4/Fase4.yy",},"order":0,},
     {"id":{"name":"Texto3","path":"objects/Texto3/Texto3.yy",},"order":0,},
-    {"id":{"name":"Steps","path":"sounds/Steps/Steps.yy",},"order":1,},
     {"id":{"name":"Carta_Aberta2","path":"sprites/Carta_Aberta2/Carta_Aberta2.yy",},"order":0,},
     {"id":{"name":"FundoFase4","path":"sprites/FundoFase4/FundoFase4.yy",},"order":0,},
     {"id":{"name":"Texto1","path":"objects/Texto1/Texto1.yy",},"order":0,},

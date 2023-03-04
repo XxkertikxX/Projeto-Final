@@ -34,12 +34,4 @@ if(!right && !left && !up && !down)
 {
 	sprite_index = Player_Parado
 }
-if(right || left || up || down)
-{
-	audio_play_sound(Steps, 1, true)
-}
-else
-{
-	audio_stop_sound(Steps)
-}
 #endregion
