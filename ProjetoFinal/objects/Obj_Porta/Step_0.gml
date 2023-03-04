@@ -1,4 +1,4 @@
-if(text = "Anna")
+if(text = "Anna" || text = "anna" || text = "ANNA")
 {
 	room_goto(Fase2)
 }

@@ -2,7 +2,7 @@ if(Mensagem)
 {
 	Texto = "Por que ela teve que morrer? Foi por minha ***?"
 }
-if(text = "Dor")
+if(text = "Dor" || text = "dor" || text = "DOR")
 {
 	room_goto(Fase4)
 }

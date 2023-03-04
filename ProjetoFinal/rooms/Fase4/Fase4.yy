@@ -15,6 +15,8 @@
     {"name":"inst_2928EE04","path":"rooms/Fase4/Fase4.yy",},
     {"name":"inst_284E82AA","path":"rooms/Fase4/Fase4.yy",},
     {"name":"inst_211FF374","path":"rooms/Fase4/Fase4.yy",},
+    {"name":"inst_7F2608CF","path":"rooms/Fase4/Fase4.yy",},
+    {"name":"inst_57AB3936","path":"rooms/Fase4/Fase4.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -27,6 +29,8 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2928EE04","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_Parede","path":"objects/Obj_Parede/Obj_Parede.yy",},"properties":[],"rotation":0.0,"scaleX":20.5,"scaleY":1.0,"x":0.0,"y":0.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_284E82AA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_Parede","path":"objects/Obj_Parede/Obj_Parede.yy",},"properties":[],"rotation":-0.06255726,"scaleX":1.5,"scaleY":11.5,"x":0.0,"y":64.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_211FF374","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_Parede","path":"objects/Obj_Parede/Obj_Parede.yy",},"properties":[],"rotation":0.0,"scaleX":20.5,"scaleY":1.5,"x":64.0,"y":704.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7F2608CF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_Mesa2","path":"objects/Obj_Mesa2/Obj_Mesa2.yy",},"properties":[],"rotation":0.0,"scaleX":0.25581396,"scaleY":0.2517194,"x":160.0,"y":96.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_57AB3936","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_Carta3","path":"objects/Obj_Carta3/Obj_Carta3.yy",},"properties":[],"rotation":0.0,"scaleX":0.19036146,"scaleY":0.1927928,"x":256.0,"y":192.00002,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

@@ -1,0 +1,12 @@
+if(text = "Johan" || text = "johan" || text = "JOHAN")
+{
+	room_goto(creditos)
+}
+if(keyboard_check_pressed(vk_backspace))
+{
+	text = ""
+}
+if(keyboard_check_pressed(vk_space))
+{
+	sprite_index = Parede
+}
