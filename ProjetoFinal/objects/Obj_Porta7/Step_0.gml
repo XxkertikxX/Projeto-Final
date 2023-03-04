@@ -1,6 +1,6 @@
 if(text = "Johan" || text = "johan" || text = "JOHAN")
 {
-	room_goto(creditos)
+	room_goto(Room_Fim)
 }
 if(keyboard_check_pressed(vk_backspace))
 {
