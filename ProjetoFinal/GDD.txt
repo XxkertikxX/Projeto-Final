@@ -1,0 +1,19 @@
+ O jogo se inicia com o menu, onde pode entrar no jogo, sair do jogo, ou ir para os créditos. Ao iniciar o jogo, tem o jogador, uma mesa, uma carta em cima da mesa e uma porta. Uma mensagem
+aparece em cima da cena para mostrar ao jogador como se movimentar (WASD) e da a dica de ir para a porta. Ao clicar uma das teclas (WASD), aparecem outras mensagens, uma que diz que a porta
+está trancada, outra que mostra a dúvida de "Qual o nome dela", dando a entender que o nome dessa pessoa é a senha, e uma outra dizendo para ir para a carta e para fechar a carta ou sair
+do "modo escrever" com a tecla "espaço". Caso o jogador vá até a porta, abre uma "caixa de texto", e para sair é necessário apertar espaço(uma das falhas do jogo é quando escreve você poder
+se mover). Quando o jogador faz contato com a carta ela abre, e diz 
+"Querido ******
+  
+  Desculpe pelo que fiz, não queria faze-lo sofrer, mas para que você vivesse, tive que ******, e para isso
+tive que ******, o que talvez o faça sofrer eternamente, mas não podia viver sem você.
+ 
+  Ass: Anna"
+ O que da a entender que o nome "dela" é Anna. Para fechar a carta é necessário apertar "espaço". Ao ir para a porta e digitar "Anna", você vai para o próximo cômodo, onde tem 3 portas, uma
+de onde veio, uma para cima e uma para a direita. Também tem uma mesa com uma carta, onde está escrito "SOCORRO, ALGUÉM ME SALVE, NÃO CONSIGO SUPORTAR ISSO, DÓI MUITO, QUERO MORRER... Não posso morrer, quero viver ao seu lado, Anna."
+ Se você for na porta da direita você para outro cômodo, onde só tem um papel, onde está escrito "Meu querido amado, se você está lendo isso, é porque tive sucesso, por mais mais que eu não poderei ficar ao seu lado, você não precisará sofrer com
+aquela maldição, então por favor, viva, viva e seja feliz, por mim."
+ Você pode voltar para o cômodo anterior, e ao colidir com a porta de cima, aparece uma mensagem "Por que ela teve que morrer? Foi por minha ***?". Por mais que complicado tentar compreender
+qual seria a senha, se pensar bem no que poderia ser com apenas três digitos, a pessoa pode chegar na conclusão da palavra "Dor", que é a senha. Então você chega na última sala, que tem uma
+porta de onde veio, uma porta a frente, uma mesa e uma carta em cima da mesa escrito "Johan, te amo mais que tudo nesse mundo, espero que póssamos nos encontrar após meu fim.", E quando você
+colide com a porta, mostra uma mensagem "Meu nome...", que é para indicar que a senha é seu nome "Johan". Ao fim de tudo aparece uma cena final e um botão para ir aos créditos.

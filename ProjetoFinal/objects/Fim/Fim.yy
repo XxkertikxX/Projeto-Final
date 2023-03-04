@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "Spr_FIM",
+    "path": "sprites/Spr_FIM/Spr_FIM.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
