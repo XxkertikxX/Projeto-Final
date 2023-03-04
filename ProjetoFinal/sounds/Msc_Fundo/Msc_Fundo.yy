@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "Msc_Fundo.wav",
-  "duration": 59.19712,
+  "duration": 7.16161,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
