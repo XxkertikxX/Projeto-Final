@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "Chuva.wav",
-  "duration": 87.43184,
+  "duration": 35.552654,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
