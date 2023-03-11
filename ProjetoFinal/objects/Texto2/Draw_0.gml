@@ -1,1 +1,1 @@
-draw_text_transformed(x, y,  Texto, 2, 2, 0)
+draw_text_transformed(50, y,  Texto, 2, 2, 0)
