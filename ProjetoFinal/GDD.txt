@@ -16,4 +16,6 @@ aquela maldição, então por favor, viva, viva e seja feliz, por mim."
  Você pode voltar para o cômodo anterior, e ao colidir com a porta de cima, aparece uma mensagem "Por que ela teve que morrer? Foi por minha ***?". Por mais que complicado tentar compreender
 qual seria a senha, se pensar bem no que poderia ser com apenas três digitos, a pessoa pode chegar na conclusão da palavra "Dor", que é a senha. Então você chega na última sala, que tem uma
 porta de onde veio, uma porta a frente, uma mesa e uma carta em cima da mesa escrito "Johan, te amo mais que tudo nesse mundo, espero que póssamos nos encontrar após meu fim.", E quando você
-colide com a porta, mostra uma mensagem "Meu nome...", que é para indicar que a senha é seu nome "Johan". Ao fim de tudo aparece uma cena final e um botão para ir aos créditos.
+colide com a porta, mostra uma mensagem "Meu nome...", que é para indicar que a senha é seu nome "Johan". Ao fim de tudo aparece uma cena final e um botão para ir aos créditos. Também tem uma mensagem final, onde ao clicar, vai para uma nova room,
+onde está escrito "Honestamente, não sei se quero que você consiga seguir em frente, da mesma forma que quero que seja livre e feliz, quero que pense em mim e sofra por mim, acho que não conseguirei
+compreender tal contradição, desculpe-me por ser uma pessoa tão ruim."
